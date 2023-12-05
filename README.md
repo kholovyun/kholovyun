@@ -1,6 +1,7 @@
 ## Технологии, которыми я владею
 
-![Language](https://img.shields.io/badge/Language-JavaScript-yellow)
+:javascript:
+
 
 
 <!--
